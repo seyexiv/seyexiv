@@ -28,7 +28,7 @@ To secure a **Working Student / Internship role in IT Security, SOC, or IT Admin
 
 | Skill | Associated Project |
 |------|---------------------|
-| Active Directory Administration (Users, Groups, GPO, OUs) | <a href="https://github.com/CHANGEME/active-directory-lab">Active Directory Home Lab</a> |
+| Active Directory Administration (Users, Groups, GPO, OUs) | <a href="https://github.com/seyexiv/ActiveDirectoryHomeLab">Active Directory Home Lab</a> |
 | SIEM Implementation & Log Analysis (Detection Rules, Alerts) | <a href="https://github.com/CHANGEME/splunk-siem-lab">Splunk SIEM Detection Lab</a> |
 | Network Traffic Monitoring & Packet Analysis | <a href="https://github.com/CHANGEME/wireshark-traffic-analysis">Wireshark PCAP Investigation Lab</a> |
 | Vulnerability Scanning & Remediation Planning | <a href="https://github.com/CHANGEME/vulnerability-scanning-report">OpenVAS / Nessus Vulnerability Assessment</a> |
