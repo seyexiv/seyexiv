@@ -84,7 +84,7 @@ Pre-Security → SOC Level 1 / SOC Level 2
 
 ## Projects (Current Focus)
 
-- <a href="https://github.com/CHANGEME/active-directory-lab">Active Directory Home Lab (Windows Server + Domain Setup)</a>
+- <a href="https://github.com/seyexiv/ActiveDirectoryHomeLab">Active Directory Home Lab (Windows Server + Domain Setup)</a>
 - <a href="https://github.com/CHANGEME/splunk-siem-lab">Splunk SIEM Detection Lab (Log Analysis + Alerts)</a>
 - <a href="https://github.com/CHANGEME/wireshark-traffic-analysis">Wireshark PCAP Investigation (Traffic Analysis Report)</a>
 - <a href="https://github.com/CHANGEME/vulnerability-scanning-report">Vulnerability Scanning & Risk Report (OpenVAS / Nessus)</a>
